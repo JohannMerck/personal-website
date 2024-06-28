@@ -1,0 +1,38 @@
+h1 {
+  color: blue;
+  border: 1px green;
+  font-size: xx-large;
+  border-style: groove;
+  box-sizing: border-box;
+  width: 205px;
+  padding: 16px 32px;
+  background-color: chocolate;
+  position: fixed;
+  right: 50%;
+}
+.list_partners {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+}
+
+.list_partners_item {
+  padding: 10px;
+  background-color: #252629;
+  color: #ffffff;
+  border-radius: 10px;
+}
+
+body {
+  background-color: darkgrey;
+}
+
+.welcome {
+  color: deeppink;
+  padding: 10px;
+  background-color: #252629;
+  color: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  padding-left: 0;
+}
