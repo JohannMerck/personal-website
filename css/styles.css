@@ -8,7 +8,7 @@ h1 {
   padding: 16px 32px;
   background-color: chocolate;
   position: fixed;
-  right: 50%;
+  right: 40%;
 }
 .list_partners {
   list-style: none;
@@ -23,15 +23,17 @@ h1 {
   border-radius: 10px;
 }
 
+.list_partners :hover{color: indianred;}
+
+
 body {
-  background-color: darkgrey;
+  background-color:deepskyblue;
 }
 
 .welcome {
   color: deeppink;
   padding: 10px;
-  background-color: #252629;
-  color: #ffffff;
+  background-color:darkgreen;
   border-radius: 10px;
   display: flex;
   padding-left: 0;
